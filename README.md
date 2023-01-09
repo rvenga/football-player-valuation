@@ -10,7 +10,7 @@ Additionally if the model is stable enough for aggregate analysis, the folder in
 
 Brazil folder also contains analysis on the Vasco da Gama squad for 2023, and analysis of the Expat brazilian players in Europe.
 
-## Usage caveats
+## Usage Caveats
 The modelling notebook includes a line to export the input table to the local directory, the path needs to be changed when cloned. This table is later 
 called in the streamlit webpage notebook to get the schema needed for the input of the model. The path again needs to be changed.
 
