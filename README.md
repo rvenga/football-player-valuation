@@ -16,3 +16,8 @@ called in the streamlit webpage notebook to get the schema needed for the input 
 
 Although the script Web_scrapper_League_table is customised to process and clean league tables from Wikipedia, the processing can be changed to scrap 
 any table in Wikipedia
+
+Club_Finanicals_Top_6_Leagues_2023 notebook contains the code to get net transfer balance of clubs in 2023, this code is also present in the brazilian
+expat analysis notebook
+
+The Stramlit web app requires the installation of the following libraries: scikitlearn, ipynb, xml
